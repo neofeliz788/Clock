@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\bin\Debug\Alarm_Project.exe.config
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\bin\Debug\Alarm_Project.exe
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\bin\Debug\Alarm_Project.pdb
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.exe
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.pdb
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.MainScreen.resources
+C:\Users\User\source\repos\Alarm_Project\Alarm_Project\obj\Debug\Alarm_Project.AddClock.resources
